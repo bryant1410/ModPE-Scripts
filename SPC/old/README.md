@@ -1,8 +1,8 @@
-#Single Player Commands v14
+# Single Player Commands v14
 
-###This is a script that adds commands to Minecraft Pocket Edition
+### This is a script that adds commands to Minecraft Pocket Edition
 
-###Commands:
+### Commands:
 | Command | Parameters | Description | Example |
 | :---: | :---: | :--- | :---: |
 | /help | `<COMMAND>` | Shows help about a specific command | /help explode |
@@ -51,8 +51,8 @@
 | /warp | `<on>` | Gives you a slimeball, a diamond hoe, a gold hoe, and a few blocks of diamond, gold, iron, and lapis, and activates Warp Panels | |
 | /warp | `<off>` | Deactivates the Warp Panels | |
 
-#####lowercase = exact word to type, CAPS = different words can be entered
-###Changelog:
+##### lowercase = exact word to type, CAPS = different words can be entered
+### Changelog:
 
 ```
 Single Player Commands v1:

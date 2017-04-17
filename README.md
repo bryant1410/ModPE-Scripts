@@ -1,4 +1,4 @@
-#Connor4898's ModPE Scripts! (Abandoned)
+# Connor4898's ModPE Scripts! (Abandoned)
 
 ```
 This program is free software: you can redistribute it and/or modify
@@ -12,11 +12,11 @@ I created a GitHub Repo for my ModPE Scripts, so everyone can easily see the cod
 
 Please don't copy or claim these scripts as your own. You can release your own versions of these scripts, but give me credit and post a link to my forum too.
 
-###[Connor4898's Forum Topic] (http://www.minecraftforum.net/topic/1931167-)
+### [Connor4898's Forum Topic] (http://www.minecraftforum.net/topic/1931167-)
 
-###[ModPE Functions Wiki] (https://github.com/Connor4898/ModPE-Scripts/wiki/ModPE-Scripts-Functions-List)
+### [ModPE Functions Wiki] (https://github.com/Connor4898/ModPE-Scripts/wiki/ModPE-Scripts-Functions-List)
 
-###[WhyToFu's Forum] (http://www.minecraftforum.net/topic/1927514-)
+### [WhyToFu's Forum] (http://www.minecraftforum.net/topic/1927514-)
 
 Many thanks,
 

@@ -1,10 +1,10 @@
-#Single Player Commands Pocket Edition BETA
+# Single Player Commands Pocket Edition BETA
 
-###This is a script that adds commands to Minecraft Pocket Edition
+### This is a script that adds commands to Minecraft Pocket Edition
 
-###Currently being re-written
+### Currently being re-written
 
-##Current commands
+## Current commands
 | Command | Description | Usage | Example |
 | :---: | :--- | :---: | :---: |
 | /ascend | Ascends the player to the platform above | /ascend | /ascend |
@@ -30,9 +30,9 @@
 | /time | Sets the in-game time | /time `<day/night/sunrise/sunset/midday/midnight>` | /time sunrise |
 | /tp | Teleports the player to the specified coordinates | /tp `<X>` `<Y>` `<Z>` | /tp 43 64 78 |
 | /unbind | Unbinds all commands from the GUI button | /unbind | /unbind |
-###Key
-#####lowercase = type exact word
-#####UPPERCASE = typed word can vary
-#####< > = required parameter
-#####[ ] = optional parameter
-####Do not include the [ ] or < > in your commands
+### Key
+##### lowercase = type exact word
+##### UPPERCASE = typed word can vary
+##### < > = required parameter
+##### [ ] = optional parameter
+#### Do not include the [ ] or < > in your commands
